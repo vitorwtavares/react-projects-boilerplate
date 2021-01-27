@@ -1,4 +1,4 @@
-# Boilerplate para projetos básicos em React contendo
+# Boilerplate para projetos básicos em React
 
 - [Chakra UI](https://chakra-ui.com/) e um tema básico configurado para o mesmo
 - Template CRA limpo
