@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 
-import { Wrapper } from './components'
+import { Wrapper } from 'components'
 
 import './index.css'
 import App from './App'
