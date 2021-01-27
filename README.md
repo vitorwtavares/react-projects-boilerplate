@@ -5,8 +5,8 @@
 - Estrutura básica para melhor organização de pastas
 - ESLint, Prettier e EditorConfig configurados
 
-Criado com CRA.
-
 ### `yarn start`
 
 Para rodar no [http://localhost:3000](http://localhost:3000)
+
+Criado com CRA.
