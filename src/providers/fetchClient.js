@@ -1,9 +1,10 @@
 import axios from 'axios'
 
-export const __API__ = process.env.API_URL
+// WHEN WORKING WITH AN .env FILE
+// export const __API__ = process.env.API_URL
 
 const defaultOptions = {
-  baseURL: __API__
+  baseURL: 'baseURL'
 }
 
 const instance = axios.create(defaultOptions)
