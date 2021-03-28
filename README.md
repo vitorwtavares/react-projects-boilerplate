@@ -1,13 +1,13 @@
-# Boilerplate para projetos básicos em React
+# Basic boilerplate for React projects
 
-- [Chakra UI](https://chakra-ui.com/) e um tema básico configurado para o mesmo
-- Estrutura básica de providers e services com axios
-- ESLint, Prettier e EditorConfig configurados
-- Template CRA limpo
-- Estrutura básica para melhor organização de pastas
+- [Chakra UI](https://chakra-ui.com/) installed and base theme configured
+- Basic structure for providers and services using Axios
+- ESLint, Prettier and EditorConfig preconfigured
+- Clean CRA template
+- Folder structure and organization
 
 ### `yarn start`
 
-Para rodar no [http://localhost:3000](http://localhost:3000)
+To run on [http://localhost:3000](http://localhost:3000)
 
-Criado com CRA.
+Created using CRA.
